@@ -2,10 +2,12 @@
 using namespace std;
 int main()
 {
-    float l,w,area;
-    cout<<"L and W:";
-    cin>>l>>w;
-    area=l*w;
-    cout << "Area of rectangle = " << area;
+    float b,h,area;
+    cout<<"B and H:";
+    cin>>b>>h;
+    area = 0.5*b*h;
+    cout << "Area of triangle = " << area;
     return 0;
 }
+
+
