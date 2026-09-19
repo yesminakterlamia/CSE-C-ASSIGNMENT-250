@@ -7,7 +7,8 @@ int main() {
  cout << "Enter principal amount: ";
   cin >> principal;
     cout << "Enter annual interest rate (%): ";
-  cin >> rate;
+ 
+    cin >> rate;
  cout << "Enter time (in years): ";
     cin >> time;
 
