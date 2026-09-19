@@ -13,7 +13,8 @@ int months = remainingAfterYears / 30;
     int days = remainingAfterYears % 30;
 
  cout << totalDays << " days = "
-         << years << " years, "
+       
+     << years << " years, "
    << months << " months, "
        << days << " days" << endl;
     return 0;
