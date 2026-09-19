@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
+  
     double principal, rate, time;
 
     cout << "Enter principal amount: ";
