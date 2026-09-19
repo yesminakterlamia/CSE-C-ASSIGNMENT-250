@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+   
     double length, width;
 
   cout << "Enter length of rectangle: ";
