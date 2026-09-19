@@ -13,7 +13,7 @@ int main() {
 
     cout << totalSeconds << " seconds = "
    << hours << " hours, "
-        << minutes << " minutes, "
+        << minutes << "  minutes, "
       << seconds << " seconds" << endl;
     return 0;
 }
